@@ -19,3 +19,7 @@
 </div>
 
 ##
+  
+  <div>
+    ![Snake animation](https://github.com/Joaopeedroo/JoaoPeedroo/blob/output/github-contribution-grid-snake.svg)
+  </div>
